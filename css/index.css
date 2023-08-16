@@ -1,0 +1,23 @@
+#searchbarDiv{
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    padding:15px;
+    border-radius: 10px;  
+}
+
+#bodys{
+    text-align: center;
+    margin: 30px;
+}
+#result{
+    text-align: justify;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(1,1fr);
+    gap: 30px 10px;
+    margin-left: 10px;
+}
+#cardBody{
+    display: none;
+}
