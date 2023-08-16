@@ -1,0 +1,2 @@
+# RickAndMortyWiki
+Prueba Técnica Basico
