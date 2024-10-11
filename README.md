@@ -1,5 +1,4 @@
 # RickAndMortyWiki
-Prueba Técnica Basico
 Consulta la api de Rick & Morty API RICK & MORTY y mediante una peticion fecth (ajax, axios ...) obten una localizacion, de la misma los 5 primeros residentes y la siguiente informacion de ellos name, status, species, nombre de su origen (origin.name), image, link de los 3 primero episodios(si es que los tienen) y ordenados alfabeticamente.
 
 Si el id de la localidad es menor a 50 el color de fondo de la pagina web debera ser verde, si es mayor a 50 y menor a 80 debera ser azul y mayor a 80 rojo.
